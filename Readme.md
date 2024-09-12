@@ -74,11 +74,11 @@ Feel free to check out my repositories to see some of my work!
 When I'm not coding, you might find me exploring new cuisines, reading about the latest tech trends, or hiking through nature!
 
 
----
+<!----
 
-# 📊 GitHub Stats:
+-# 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical) -->
 
 ---
 
